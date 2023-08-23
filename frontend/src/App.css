@@ -1,0 +1,29 @@
+.app {
+  width: 800px;
+  margin-inline: auto;
+}
+
+nav {
+  border-bottom: 1px solid #646cff;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+nav li {
+  list-style: none;
+}
+
+.blog {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.options {
+  display: flex;
+  gap: 1rem;
+}
