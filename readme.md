@@ -5,6 +5,16 @@
 - XAMPP
 
 ### Instruction
+
+1. Clonning / Extracting project
+   - If Git is installed
+     * Go to htdocs inside Xampp
+     * Open git bash or cmd in that directory
+     * Run: git clone https://github.com/Rafay106/php_react_crud.git
+   - If Git is not installed
+     * Download the zip file
+     * Extract it inside htdocs
+       
 1. Create database named "myblog"
    - Start apache and MySQL from XAMPP
    - Open phpmyadmin
